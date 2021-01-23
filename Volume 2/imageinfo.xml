@@ -1,0 +1,18 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="219" filedate="2018-12-01 13:42:26" width="16px" height="16px"/>
+<image path="images/card.png" filesize="230" filedate="2018-12-01 13:42:26" width="16px" height="11px"/>
+<image path="images/external.png" filesize="151" filedate="2018-06-17 14:51:49" width="12px" height="12px"/>
+<image path="images/frontispiece2.jpg" filesize="59461" filedate="2018-06-17 14:53:43" width="427px" height="720px"/>
+<image path="images/new-cover.jpg" filesize="49843" filedate="2018-06-17 14:53:43" width="480px" height="720px"/>
+<image path="images/p2083.jpg" filesize="106028" filedate="2018-06-17 14:53:43" width="720px" height="426px"/>
+<image path="images/p2121.jpg" filesize="68264" filedate="2018-06-17 14:53:43" width="422px" height="720px"/>
+<image path="images/p2124.jpg" filesize="80635" filedate="2018-06-17 14:53:43" width="720px" height="561px"/>
+<image path="images/p2144.jpg" filesize="62951" filedate="2018-06-17 14:53:43" width="421px" height="720px"/>
+<image path="images/p2193.jpg" filesize="73241" filedate="2018-06-17 14:53:44" width="668px" height="720px"/>
+<image path="images/p2199.jpg" filesize="80555" filedate="2018-06-17 14:53:44" width="720px" height="425px"/>
+<image path="images/p2218.jpg" filesize="64808" filedate="2018-06-17 14:53:44" width="720px" height="548px"/>
+<image path="images/p2226.jpg" filesize="55748" filedate="2018-06-17 14:53:44" width="720px" height="415px"/>
+<image path="images/p2238.jpg" filesize="63501" filedate="2018-06-17 14:53:44" width="425px" height="720px"/>
+<image path="images/qrcode.png" filesize="269" filedate="2018-12-01 13:42:36" width="148px" height="148px"/>
+<image path="images/titlepage.png" filesize="6981" filedate="2018-12-01 13:42:38" width="373px" height="720px"/>
+</images>

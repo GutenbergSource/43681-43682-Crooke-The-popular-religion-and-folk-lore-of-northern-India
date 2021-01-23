@@ -1,0 +1,22 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="219" filedate="2018-12-01 13:42:13" width="16px" height="16px"/>
+<image path="images/card.png" filesize="230" filedate="2018-12-01 13:42:14" width="16px" height="11px"/>
+<image path="images/external.png" filesize="151" filedate="2018-06-17 14:51:47" width="12px" height="12px"/>
+<image path="images/frontispiece1.jpg" filesize="68717" filedate="2018-06-17 14:53:41" width="720px" height="422px"/>
+<image path="images/new-cover.jpg" filesize="49686" filedate="2018-06-17 14:53:41" width="480px" height="720px"/>
+<image path="images/p1035.jpg" filesize="90138" filedate="2018-06-17 14:53:41" width="550px" height="720px"/>
+<image path="images/p1037.jpg" filesize="44594" filedate="2018-06-17 14:53:41" width="720px" height="420px"/>
+<image path="images/p1066.jpg" filesize="73657" filedate="2018-06-17 14:53:41" width="720px" height="421px"/>
+<image path="images/p1084.jpg" filesize="69627" filedate="2018-06-17 14:53:41" width="423px" height="720px"/>
+<image path="images/p1087.jpg" filesize="54089" filedate="2018-06-17 14:53:42" width="423px" height="720px"/>
+<image path="images/p1096.jpg" filesize="80403" filedate="2018-06-17 14:53:42" width="720px" height="423px"/>
+<image path="images/p1105.jpg" filesize="65529" filedate="2018-06-17 14:53:42" width="720px" height="425px"/>
+<image path="images/p1110.jpg" filesize="66893" filedate="2018-06-17 14:53:42" width="720px" height="424px"/>
+<image path="images/p1126.jpg" filesize="95072" filedate="2018-06-17 14:53:42" width="720px" height="425px"/>
+<image path="images/p1146.jpg" filesize="73611" filedate="2018-06-17 14:53:42" width="720px" height="446px"/>
+<image path="images/p1160.jpg" filesize="66151" filedate="2018-06-17 14:53:42" width="422px" height="720px"/>
+<image path="images/p1187.jpg" filesize="87442" filedate="2018-06-17 14:53:42" width="720px" height="421px"/>
+<image path="images/p1283.jpg" filesize="55641" filedate="2018-06-17 14:53:42" width="720px" height="422px"/>
+<image path="images/qrcode.png" filesize="265" filedate="2018-12-01 13:42:24" width="148px" height="148px"/>
+<image path="images/titlepage.png" filesize="6805" filedate="2018-12-01 13:42:26" width="400px" height="720px"/>
+</images>
